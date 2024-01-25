@@ -1,1 +1,0 @@
-Select * form Database.schema.table;
